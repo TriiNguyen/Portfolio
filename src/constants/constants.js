@@ -19,10 +19,10 @@ export const projects = [
   },
   {
     title: 'Personal Portfolio',
-    description: "By using React to build and deploy my personal portfolio with my own domain",
+    description: "By using React to build and deploy my personal portfolio",
       image: '/images/33.png',
       tags: ['React', 'Style Component'],
-    source: '/',
+    source: '//github.com/TriiNguyen/Portfolio',
     visit: '/',
     id: 2,
   },
