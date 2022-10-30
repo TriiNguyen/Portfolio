@@ -12,7 +12,7 @@ const Hero = () => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hi my name's Tri, and I'm taking my first steps on the road to becoming a web developer…
+        Hi my name's Tri, and I'm taking my first steps on the road to becoming a web developer
       </SectionText>
         <a style={{color:'#fff'}} target="_blank" href="/images/CV.pdf">
           <Button>
