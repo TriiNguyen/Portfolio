@@ -47,8 +47,9 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I have a huge passion for programming and engineering. 
-      I believe myself as a fast learner and a person with a can-do attitude in a high-pressure environment. 
-      Working and studying in the field of programming is my long-time personal wish, which motivates me to overcome and achieve new targets.
+      I am confident of being a fast learner having a can-do attitude in a high-pressure environment. 
+      Working and studying in the field of programming is my long-term desire, 
+      which motivates me to overcome obstacles and achieve new targets.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
