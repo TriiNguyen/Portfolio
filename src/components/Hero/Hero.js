@@ -1,0 +1,22 @@
+import React from 'react';
+
+import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import Button from '../../styles/GlobalComponents/Button';
+import { LeftSection } from './HeroStyles';
+
+const Hero = () => (
+  <Section row nopadding>
+    <LeftSection>
+      <SectionTitle main center>
+        Welcome To<br/>
+        My personal Portfolio
+      </SectionTitle>
+      <SectionText>
+        Hi my name's Tri, and I'm taking my first steps on the road to becoming a web developer…
+      </SectionText>
+      <Button><a style={{color:'#fff'}} target="_blank" href="/images/CV.pdf">Learn more</a></Button>
+    </LeftSection>
+  </Section>
+);
+
+export default Hero;
